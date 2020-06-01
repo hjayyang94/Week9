@@ -2,11 +2,26 @@
 
 Run by using the following commands.
 
+
+
+
+Exercise Three -
 cd exercise
-ruby xxxxx.rb ../pride_and_prejudice.txt
+python3 Three.py ../pride_and_prejudice.txt
 
-Exercise 26 prompts the user to enter paths for other text files. Simply add the path to a text file, or type "quit" to end the program.
 
-Exercise 27 prints out the progress of the most frequent words every 5000 words, separated by a series of "-------".
+
+Exercise ThirtyThree -
+cd exercise
+python3 ThirtyThree.py
+
+
+
+Exercise Three prints out the top 5 most common 2-grams that are converted to Leetspeak.
+
+Exercise ThirtyThree is an interactive shell that pretends to be a RESTful server-client model. 
+Once file has been uploaded, 
+Insert value "3" to move to the next most common word.
+Insert value "4" to move to the previous common word.
 
 
